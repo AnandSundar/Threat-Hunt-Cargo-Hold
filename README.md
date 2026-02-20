@@ -11,7 +11,7 @@
 > **Incident ID:** `INC2025-0011-019`
 > **Date of Detection:** November 22, 2025
 > **Date of Containment:** November 23, 2025
-> **Analyst:** Webber
+> **Analyst:** Anand Sundar
 > **Platform:** Microsoft Sentinel / Microsoft Defender for Endpoint
 
 ---
